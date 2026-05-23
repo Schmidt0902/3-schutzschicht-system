@@ -1,0 +1,11 @@
+┌───────────────────────────────────────────────┐
+│  ÄUSSERE SCHICHT: Metallischer Faraday-Käfig   │
+│  (EMP-Schutz, HF-Abschirmung, thermische Hülle)│
+├───────────────────────────────────────────────┤
+│  MITTLERE SCHICHT: Quarz-Verbundstruktur       │
+│  (Mechanik, Isolation, Stabilität, Dämpfung)   │
+├───────────────────────────────────────────────┤
+│  INNERE SCHICHT: Quarz-Verguss                 │
+│  (Elektronik hermetisch, extrem robust)        │
+│  → STM32H5-Board vollständig eingebettet        │
+└───────────────────────────────────────────────┘
